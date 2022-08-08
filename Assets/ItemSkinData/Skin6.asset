@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 186c7e7ffea2c6548a22e683bc69e2f1, type: 3}
+  m_Name: Skin6
+  m_EditorClassIdentifier: 
+  Price: 7000
+  PlayerModel: {fileID: 2872731844743009686, guid: 00ca40e2f03ee7e4784a5a96be91e0ca, type: 3}
+  PlayerColor: {r: 0.23270434, g: 0.29170024, b: 1, a: 1}
